@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data
+data/*
+!data/README.md
+
+# Models and embeddings
+checkpoints/
+embeddings/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# Secrets
+kaggle.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
