@@ -1,9 +1,12 @@
 numpy
 pandas
+polars
 pyarrow
 matplotlib
+seaborn
 scikit-learn
 tqdm
-kaggle
-polars
 torch
+transformers
+pillow
+kaggle

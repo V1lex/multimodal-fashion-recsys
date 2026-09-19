@@ -244,3 +244,9 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Generated submissions
+submissions/
+
+# Hugging Face cache
+.cache/
